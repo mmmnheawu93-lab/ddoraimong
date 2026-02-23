@@ -8,4 +8,4 @@
 + 기술스텍 <br>
 + 주요기능 <br>
 + 연락처: <br>
-![이미지올리는연습](http://git-scm.com/images/logo@2x.pmg)
+![이미지올리는연습](https://www.youtube.com/watch?v=2QL7OGdU-os&list=RD2QL7OGdU-os&start_radio=1)
